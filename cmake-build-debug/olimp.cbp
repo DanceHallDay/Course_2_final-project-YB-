@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="olimp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ivan/CLionProjects/olimp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ivan/CLionProjects/olimp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ivan/CLionProjects/olimp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="olimp">
+				<Option output="/home/ivan/CLionProjects/olimp/cmake-build-debug/olimp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ivan/CLionProjects/olimp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 olimp"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="olimp/fast">
+				<Option output="/home/ivan/CLionProjects/olimp/cmake-build-debug/olimp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ivan/CLionProjects/olimp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 olimp/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ivan/CLionProjects/olimp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ivan/CLionProjects/olimp/condition_parser.cpp">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/condition_parser.h">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/condition_parser_test.cpp">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/database.cpp">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/database.h">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/date.cpp">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/date.h">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/main.cpp">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/node.cpp">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/node.h">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/test_runner.cpp">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/test_runner.h">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/tester_github.h">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/token.cpp">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/token.h">
+			<Option target="olimp"/>
+		</Unit>
+		<Unit filename="/home/ivan/CLionProjects/olimp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
